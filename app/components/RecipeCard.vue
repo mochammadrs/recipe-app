@@ -8,9 +8,7 @@ defineProps<{
 
 <template>
     <div class="flex flex-col shadow rounded-md">
-        <section class="py-20 container">
-            <h2 class="text-3xl lg:text-5xl mb-2">Discover, Create, Share</h2>
-            <p class="text-lg lg:text-xl mb-8">Check out our most popular recipes!</p>
+        <section class="py-5 container">
             <div>
                 <div class="flex flex-col shadow rounded-md">
                     <NuxtImg 
